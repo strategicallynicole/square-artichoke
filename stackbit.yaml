@@ -50,3 +50,6 @@ models:
     label: ffff
     singleInstance: true
     file: schema.json
+    fields:
+      - name: ''
+        type: string
