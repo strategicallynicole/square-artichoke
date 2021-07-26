@@ -45,3 +45,6 @@ models:
       - type: string
         name: description
         label: Description
+  ffff:
+    type: page
+    label: ffff
