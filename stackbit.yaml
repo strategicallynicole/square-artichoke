@@ -48,3 +48,5 @@ models:
   ffff:
     type: page
     label: ffff
+    singleInstance: true
+    file: ''
